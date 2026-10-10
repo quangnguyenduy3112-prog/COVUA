@@ -1,0 +1,12 @@
+{
+  "name": "ChessLab",
+  "short_name": "ChessLab",
+  "description": "Môi trường thử nghiệm bot tìm kiếm cờ vua",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141514",
+  "theme_color": "#1d1f1c",
+  "icons": [
+    { "src": "/chesslab-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

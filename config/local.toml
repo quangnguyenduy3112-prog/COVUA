@@ -1,0 +1,8 @@
+[server]
+host = "127.0.0.1"
+port = 8765
+open_browser = true
+
+[game]
+default_time_seconds = 240
+max_plies = 300
